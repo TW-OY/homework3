@@ -1,0 +1,135 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+body{
+    background-color: #D7C8A6;
+    font-family: "Metallophile", "Trebuchet MS", Helvetica, sans-serif;
+}
+hr{
+    border:solid 1px grey;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #913100;
+}
+
+a :visited{
+}
+.siderbar{
+    float: left;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 1%;
+    width: 30%;
+    color: #913100;
+}
+
+.siderbar img {
+    width: 70%;
+}
+
+.container{
+    width: 65%;
+    margin-left: 32%;
+    padding-top: 3%;
+    text-align:center;
+}
+
+
+.center_introduction {
+    display: inline-block;
+    width: 30%;
+    margin-right: 2%;
+    margin-top: 5%;
+}
+
+.center_introduction img{
+     width: 100%;
+}
+
+
+
+.name {
+    /* width: 25%; */
+    /* margin-top: 20%; */
+    font-size: 10px;
+}
+
+.header_main_title{
+    font-size: 3em;
+    padding-bottom: 2%;
+    font-weight: bold; }
+
+.header_introduction{
+    text-align: left;
+    line-height: 1.5em; 
+   }
+
+.center_main_name{
+    font-size: 1.3em;
+    margin-top: 2%;
+}
+
+
+.main .main_title1{
+    background-color: #913100;
+    color: white;
+    border-radius: 2em;}
+
+.siderbar_title{
+    display: block;
+    background-color: #913100;
+    font-size: 1.3em;
+    border-radius: 2em;
+    color: white;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.small_hr{
+    opacity: 0.2;
+}
+
+.center_name{
+    font-size: 1em;
+    color: #EBDAB6;
+    display: block;
+    background-color: #913100;
+    width:80%;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    margin-left: 2em;
+}
+
+footer{
+    margin-top: 5%;
+}
+
+footer a{
+    display: inline;
+}
+
+footer p{
+    display: inline;
+}
+
+.footer_line1_front{
+    display: inline-block;
+    margin: 1%;
+}
+
+.footer_line1_behind{
+    display: inline-block;
+}
+
