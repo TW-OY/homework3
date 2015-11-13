@@ -136,11 +136,11 @@ footer p{
 }
 @font-face {
     font-family: 'bearpaw';
-    src: url('font/BEARPAW_-webfont.eot');
-    src: url('font/BEARPAW_-webfont.eot?#iefix') format('embedded-opentype'),
-         url('font/BEARPAW_-webfont.woff') format('woff'),
-         url('font/BEARPAW_-webfont.ttf') format('truetype'),
-         url('font/BEARPAW_-webfont.svg#bearpawregular') format('svg');
+    src: url('http://7xn8xc.com1.z0.glb.clouddn.com/fontBEARPAW_-webfont.eot');
+    src: url('http://7xn8xc.com1.z0.glb.clouddn.com/fonttBEARPAW_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://7xn8xc.com1.z0.glb.clouddn.com/fontBEARPAW_-webfont.woff') format('woff'),
+         url('http://7xn8xc.com1.z0.glb.clouddn.com/fontBEARPAW_-webfont.ttf') format('truetype'),
+         url('http://7xn8xc.com1.z0.glb.clouddn.com/fontBEARPAW_-webfont.svg#bearpawregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
