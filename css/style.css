@@ -67,9 +67,11 @@ a :visited{
 }
 
 .header_main_title{
-    font-size: 3em;
+    font-size: 6em;
     padding-bottom: 2%;
-    font-weight: bold; }
+    font-weight: bold; 
+    font-family: bearpaw;
+}
 
 .header_introduction{
     text-align: left;
@@ -131,6 +133,17 @@ footer p{
 
 .footer_line1_behind{
     display: inline-block;
+}
+@font-face {
+    font-family: 'bearpaw';
+    src: url('font/BEARPAW_-webfont.eot');
+    src: url('font/BEARPAW_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/BEARPAW_-webfont.woff') format('woff'),
+         url('font/BEARPAW_-webfont.ttf') format('truetype'),
+         url('font/BEARPAW_-webfont.svg#bearpawregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 @media only screen and (max-width: 768px){
